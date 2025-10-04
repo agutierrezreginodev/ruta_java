@@ -1,0 +1,4 @@
+com\codeup\ministore\domain\Food.class
+com\codeup\ministore\domain\Product.class
+com\codeup\ministore\domain\Appliance.class
+com\codeup\ministore\MiniStore.class
